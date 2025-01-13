@@ -1,0 +1,4 @@
+{
+  "verbose": true,
+  "ignore": ["node_modules", "minio-data", "postgres-data", "ficheros_subidos"]
+}
